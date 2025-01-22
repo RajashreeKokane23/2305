@@ -11,4 +11,7 @@ public void addition() {
 	{
 		System.out.println("This is multiplication");
 	}
+	public void Divison() {
+		System.out.println("This is Divisition");
+	}
 }
