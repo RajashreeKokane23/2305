@@ -12,6 +12,6 @@ public void addition() {
 		System.out.println("This is multiplication");
 	}
 	public void Divison() {
-		System.out.println("This is Divisition");
+		System.out.println("This is substraction");
 	}
 }
