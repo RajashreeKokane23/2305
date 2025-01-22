@@ -7,4 +7,8 @@ public void addition() {
 	public void Substraction(){
 		System.out.println("This is Substraction");
 	}
+	public void Multiplication()
+	{
+		System.out.println("This is multiplication");
+	}
 }
