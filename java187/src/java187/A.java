@@ -11,4 +11,6 @@ public void addition() {
 	{
 		System.out.println("This is multiplication");
 	}
+	public void m10(){
+	}
 }
